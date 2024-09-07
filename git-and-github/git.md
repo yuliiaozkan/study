@@ -102,7 +102,7 @@ Once the new version of the software has been tested and approved, the cycle rep
 
 ## Going deeper
 
-The above simple commands will be about 95% of what you will do with git. As long as everything goes smooth you will not have to do anything else and you are now an expert. Unfortunately it doesn't always go smooth and you will have to look into ways to solve your problem. We will not cover all those here as you will only need to look into it once you encounter a problem, but what we do want to provide is a video that goes into what git does under the hood. It goes quite deep so don't expect to follow everything he says as it is aimed at people who have used git for awhile, but come back to it whenever you run into an issue:
+The above simple commands will be about 95% of what you will do with git. As long as everything goes smooth you will not have to do anything else and you are now an expert. Unfortunately it doesn't always go smooth and you will have to look into ways to solve your problem. We will not cover all those here as you will only need to look into it once you encounter a problem, but what we do want to provide is a video that goes into what git does under the hood. It goes quite deep so don't expect to follow everything he says as it is aimed at people who have used git for a while, but come back to it whenever you run into an issue:
 
 {% hyf-youtube src="https://www.youtube.com/watch?v=1ffBJ4sVUb4" %}
 
